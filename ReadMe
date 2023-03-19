@@ -1,0 +1,10 @@
+This project is designed and developed entirely from scratch by I MD Shuaib Khan.
+The tech stack includes:
+-Vite.js
+-React.js
+-Node.js
+-HTML
+-CSS
+-JavaScript
+
+Since Vite tool has been used for development, please type: "npm run dev" in the terminal to run/host the webiste locally.
